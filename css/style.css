@@ -49,13 +49,63 @@ main {
     background-color: white;
     border: 1px solid rgb(200, 206, 211);
 }
+hr {
+    height: 0px;
+    border: 0px;
+    background-color: rgb(246, 248, 249);
+}
 /* SECTION */
 section {
     background-color: white;
     width: 900px;
     margin: auto;
 }
-.space-buttons {
+.space-section {
     margin-left:50px;
-    margin-top: 50px;
+    margin-top: 0px;
+    padding: 15px;
+}
+p {
+    line-height: 35px;
+}
+/* Tag colorati  */
+.tag {
+    font-size:15px;
+    padding:4px 10px;
+    border-radius:15px;
+    margin-left:5px;
+    color:white;
+}
+.editorial {
+    background-color: rgb(69, 171, 234);
+}
+.viola {
+    background-color: rgb(156, 114, 228);
+}
+.verde {
+    background-color: rgb(100, 192, 169);
+}
+.green {
+    background-color: rgb(176, 201, 38);
+}
+.rosa {
+    background-color: rgb(216, 99, 161);
+}
+.arancione {
+    background-color: rgb(242, 158, 51);
+}
+/* SPUNTE */
+.check {
+    height:20px;
+    width:20px;
+    border:1px solid rgb(96, 190, 165);
+    border-radius: 50%;
+    color:rgb(96, 190, 165);
+    display: inline-block;
+    text-align:center;
+    line-height: 20px
+}
+.red {
+    color:red;
+    border-color:red;
 }
