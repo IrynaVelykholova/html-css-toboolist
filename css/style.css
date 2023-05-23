@@ -25,7 +25,7 @@ img {
 main {
     background-color: white;
     width: 900px;
-    margin: auto
+    margin: auto;
 }
 /* Button */
 .space-buttons {
@@ -48,4 +48,14 @@ main {
     color: rgb(200, 206, 211);
     background-color: white;
     border: 1px solid rgb(200, 206, 211);
+}
+/* SECTION */
+section {
+    background-color: white;
+    width: 900px;
+    margin: auto;
+}
+.space-buttons {
+    margin-left:50px;
+    margin-top: 50px;
 }
