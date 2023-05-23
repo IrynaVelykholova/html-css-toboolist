@@ -2,6 +2,7 @@
     margin: o;
     padding: 0;
     box-sizing: border-box;
+    font-family: sans-serif;
 }
 /* LOGO */
 header {
@@ -9,5 +10,8 @@ header {
     height: 150px;
 }
 .title { 
-    display: inline-block;
+    font-size: 80;
+}
+body {
+    background-color: rgb(246, 248, 249);;
 }
