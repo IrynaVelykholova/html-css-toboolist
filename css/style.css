@@ -1,0 +1,13 @@
+* {
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* LOGO */
+header {
+    background-color: white;
+    height: 150px;
+}
+.title { 
+    display: inline-block;
+}
